@@ -1,5 +1,5 @@
-{
-  "products": [
+
+ [
     {
       "id": 1,
       "namefood": "ប្រហុកខ្ទិះ",
@@ -133,4 +133,3 @@
       "image": "https://i1-c.pinimg.com/1200x/c8/21/f5/c821f588e565803f739ab0ac5f600246.jpg"
     }
   ]
-}
